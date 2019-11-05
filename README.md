@@ -14,7 +14,7 @@ I’ve worked on multiple personal projects using Java, C#, TypeScript, Angular,
 I'm 24-year old student from Turku University of Applied Sciences. I am studying Business IT and my specialization is information security & privacy and networking. I have work experience as SOC analyst and IT support. My greatest passion is to learn new things in technology.
 
 ## Eerik Hannula
-Hello! My name is Eerik Hannula.I'm 23 years old ICT student in Turku University of Applied Sciences.
+Hello! My name is Eerik Hannula. I'm 23 years old ICT student in Turku University of Applied Sciences.
 I'm specializing in embedded systems and IoT.
 My interests are mainly related to computers, tech and videogames, but I'm also enthusiastic snowboarder.
 For the capstone-course, my expectations are to get a closer look at working as a programmer or software developer.
