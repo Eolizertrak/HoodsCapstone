@@ -8,7 +8,7 @@ Hi, My name is Sakari Wahlsten. I am a 22-year old student from Turku University
 
 I’m a Software development professional with great urge to learn more. Currently I’m working as Junior Software Developer and studying software development at Turku University of Applied Sciences. My core strengths are team work, passion for my own workand a desire to provide customers with the most comprehensive solution to problems and challenges they are facing.
 
-I’ve worked on multiple personal projects using Java, C#, TypeScript, Angular, JavaScript, NodeJS Flutter and Dart. Currently I’m working with Dart and Flutter framework to bring native app experiences on both iOS and Android platforms.
+I’ve worked on multiple personal projects using Java, C#, TypeScript, Angular, JavaScript, NodeJS, Flutter and Dart. Currently I’m working with Dart and Flutter framework to bring native app experiences on both iOS and Android platforms.
 
 ## Vesa-Matti Mäntysaari
 I'm 24-year old student from Turku University of Applied Sciences. I am studying Business IT and my specialization is information security & privacy and networking. I have work experience as SOC analyst and IT support. My greatest passion is to learn new things in technology.
