@@ -10,6 +10,8 @@ I’m a Software development professional with great urge to learn more. Current
 
 I’ve worked on multiple personal projects using Java, C#, TypeScript, Angular, JavaScript, NodeJS Flutter and Dart. Currently I’m working with Dart and Flutter framework to bring native app experiences on both iOS and Android platforms.
 
+## Vesa-Matti Mäntysaari
+I'm 24-year old student from Turku University of Applied Sciences. I am studying Business IT and my specialization is information security & privacy and networking. I have work experience as SOC analyst and IT support. My greatest passion is to learn new things in technology.
 
 ##
 
