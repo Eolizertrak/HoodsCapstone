@@ -1,7 +1,7 @@
 # HoodsCapstone
 
 ## Sakari Wahlsten
-Hi, My name is Sakari Wahlsten. I am a 22-year old student from Turku University of Applied Sciences. I am studying Business IT and I am specializing on information security and networking. I have previous working experience in the field of sales and customer service. What I am waiting from the Capstone project is new experiences and learning. 
+Hi, My name is Sakari Wahlsten. I am a 22-year old student from Turku University of Applied Sciences. I am studying Business IT and I am specializing on information security and networking. I have previous working experience in the field of sales and customer service. What I am wanting from the Capstone project is new experiences and learning. 
 
 
 ## Klaus Jokinen
@@ -21,6 +21,10 @@ For the capstone-course, my expectations are to get a closer look at working as 
 
 ## Hassan Maskati
 Hi, my name is Hassan Maskati and I am in my 3rd year studying Business-IT (AMK) at the Turku University of Applied Sciences. Throughout my studies I have become familiar with fundamentals in programming and web development technologies. My focus is to become a full stack web developer. This Capstone project will provide a chance to work on an interesting case as part of the team.
+
+
+## Travis Dyde
+Hey, Im currently in my 3rd year at TUAS and am following the study path of Networking and Information Security with a heavy preference on Cybersecurity.  I look to find a job in Pen testing.
 
 ##
 
