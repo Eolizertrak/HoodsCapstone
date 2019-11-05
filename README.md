@@ -11,4 +11,11 @@ I’m a Software development professional with great urge to learn more. Current
 I’ve worked on multiple personal projects using Java, C#, TypeScript, Angular, JavaScript, NodeJS Flutter and Dart. Currently I’m working with Dart and Flutter framework to bring native app experiences on both iOS and Android platforms.
 
 
+##
+
 ![Sakari Wahlsten](https://media.licdn.com/dms/image/C5603AQFNkaeqLNNpZg/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=OVe6dF_kPhNOZgp8frcGGemCOu4ZTKAEjJuApBKEkQo)
+
+![Klaus Jokinen](https://media.licdn.com/dms/image/C5603AQGeX12aI5VctQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=UHtfVDNb0Z3p0gdgEm2agXhwwWRZ57AMaGPEmSzKWbQ)
+
+
+
