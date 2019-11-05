@@ -26,9 +26,17 @@ Hi, my name is Hassan Maskati and I am in my 3rd year studying Business-IT (AMK)
 ## Travis Dyde
 Hey, Im currently in my 3rd year at TUAS and am following the study path of Networking and Information Security with a heavy preference on Cybersecurity.  I look to find a job in Pen testing.
 
+## Martin Lehtomaa
+Im a 23 year old student in Turku University Of Applied Sciences and study Embedded software as and ICT Engineer. I also work part-time as a Software Developer at CGI. My interests are most in backend/server-side applications and embedded systems. I expect the course
+to give a good base experience on real-life project work. I believe this specific project is going to be very interesting, because the main features to be implemented on the platform includes server-side systems for e.g. user registration and authentication.
+
+My stregths are mostly in programming with Java and creating webapps. I am a very good team worker and a social guy social as well. My weakness is insecurity, for e.g. I might think too critically about my own work compared to other. This course gives a perfect opportunity to work on my weaknesses.
+
+Previous work experience i have mostly on customer service and sales, but now I have worked almost 1 year as software developer. I have practical experience in programming through my own projects and school work.
+
 ##
 
-![Sakari Wahlsten](https://media.licdn.com/dms/image/C5603AQFNkaeqLNNpZg/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=OVe6dF_kPhNOZgp8frcGGemCOu4ZTKAEjJuApBKEkQo "Sakari Wahlsten") ![Klaus Jokinen](https://media.licdn.com/dms/image/C5603AQGeX12aI5VctQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=UHtfVDNb0Z3p0gdgEm2agXhwwWRZ57AMaGPEmSzKWbQ "Klaus Jokinen") ![Vesa-Matti Mäntysaari](https://media.licdn.com/dms/image/C5103AQFFhCMbbI-AXA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=-oTpzNCxLJWg5QG4J38wmHFe6NtkpHyJ_Wma2k8K6jw "Vesa-Matti Mäntysaari")
+![Sakari Wahlsten](https://media.licdn.com/dms/image/C5603AQFNkaeqLNNpZg/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=OVe6dF_kPhNOZgp8frcGGemCOu4ZTKAEjJuApBKEkQo "Sakari Wahlsten") ![Klaus Jokinen](https://media.licdn.com/dms/image/C5603AQGeX12aI5VctQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=UHtfVDNb0Z3p0gdgEm2agXhwwWRZ57AMaGPEmSzKWbQ "Klaus Jokinen") ![Vesa-Matti Mäntysaari](https://media.licdn.com/dms/image/C5103AQFFhCMbbI-AXA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=-oTpzNCxLJWg5QG4J38wmHFe6NtkpHyJ_Wma2k8K6jw "Vesa-Matti Mäntysaari") ![Martin Lehtomaa](https://media.licdn.com/dms/image/C5603AQG_riPV4BBbIA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=-32_-rnIbMNEtuB8sG0QFSgfZaKelHCBwrigHIMwHvI "Martin Lehtomaa)
 
 
 
