@@ -15,7 +15,7 @@ I'm 24-year old student from Turku University of Applied Sciences. I am studying
 
 ##
 
-![Sakari Wahlsten](https://media.licdn.com/dms/image/C5603AQFNkaeqLNNpZg/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=OVe6dF_kPhNOZgp8frcGGemCOu4ZTKAEjJuApBKEkQo) ![Klaus Jokinen](https://media.licdn.com/dms/image/C5603AQGeX12aI5VctQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=UHtfVDNb0Z3p0gdgEm2agXhwwWRZ57AMaGPEmSzKWbQ)
+![Sakari Wahlsten](https://media.licdn.com/dms/image/C5603AQFNkaeqLNNpZg/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=OVe6dF_kPhNOZgp8frcGGemCOu4ZTKAEjJuApBKEkQo "Sakari Wahlsten") ![Klaus Jokinen](https://media.licdn.com/dms/image/C5603AQGeX12aI5VctQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=UHtfVDNb0Z3p0gdgEm2agXhwwWRZ57AMaGPEmSzKWbQ "Klaus Jokinen")
 
 
 
