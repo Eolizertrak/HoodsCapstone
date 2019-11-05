@@ -19,6 +19,8 @@ I'm specializing in embedded systems and IoT.
 My interests are mainly related to computers, tech and videogames, but I'm also enthusiastic snowboarder.
 For the capstone-course, my expectations are to get a closer look at working as a programmer or software developer.
 
+## Hassan Maskati
+Hi, my name is Hassan Maskati and I am in my 3rd year studying Business-IT (AMK) at the Turku University of Applied Sciences. Throughout my studies I have become familiar with fundamentals in programming and web development technologies. My focus is to become a full stack web developer. This Capstone project will provide a chance to work on an interesting case as part of the team.
 
 ##
 
