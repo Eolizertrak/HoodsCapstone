@@ -36,7 +36,7 @@ Previous work experience i have mostly on customer service and sales, but now I 
 
 ##
 
-![Sakari Wahlsten](https://media.licdn.com/dms/image/C5603AQFNkaeqLNNpZg/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=OVe6dF_kPhNOZgp8frcGGemCOu4ZTKAEjJuApBKEkQo "Sakari Wahlsten") ![Klaus Jokinen](https://media.licdn.com/dms/image/C5603AQGeX12aI5VctQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=UHtfVDNb0Z3p0gdgEm2agXhwwWRZ57AMaGPEmSzKWbQ "Klaus Jokinen") ![Vesa-Matti Mäntysaari](https://media.licdn.com/dms/image/C5103AQFFhCMbbI-AXA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=-oTpzNCxLJWg5QG4J38wmHFe6NtkpHyJ_Wma2k8K6jw "Vesa-Matti Mäntysaari") ![Martin Lehtomaa](https://media.licdn.com/dms/image/C5603AQG_riPV4BBbIA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=-32_-rnIbMNEtuB8sG0QFSgfZaKelHCBwrigHIMwHvI "Martin Lehtomaa)
+![Sakari Wahlsten](https://media.licdn.com/dms/image/C5603AQFNkaeqLNNpZg/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=OVe6dF_kPhNOZgp8frcGGemCOu4ZTKAEjJuApBKEkQo "Sakari Wahlsten") ![Klaus Jokinen](https://media.licdn.com/dms/image/C5603AQGeX12aI5VctQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=UHtfVDNb0Z3p0gdgEm2agXhwwWRZ57AMaGPEmSzKWbQ "Klaus Jokinen") ![Vesa-Matti Mäntysaari](https://media.licdn.com/dms/image/C5103AQFFhCMbbI-AXA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=-oTpzNCxLJWg5QG4J38wmHFe6NtkpHyJ_Wma2k8K6jw "Vesa-Matti Mäntysaari") ![Martin Lehtomaa](https://media.licdn.com/dms/image/C5603AQG_riPV4BBbIA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=-32_-rnIbMNEtuB8sG0QFSgfZaKelHCBwrigHIMwHvI "Martin Lehtomaa")
 
 
 
