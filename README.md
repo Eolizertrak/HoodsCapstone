@@ -1,8 +1,7 @@
 # HoodsCapstone
 
-## Sakari Wahlsten
-Hi,
-My name is Sakari Wahlsten. I am a 22-year old student from Turku University of Applied Sciences. I am studying Business IT and I am specializing on information security and networking. I have previous working experience in the field of sales and customer service. What I am waiting from the Capstone project is new experiences and learning. 
+## Sakari Wahlsten ![image](https://media.licdn.com/dms/image/C5603AQFNkaeqLNNpZg/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=OVe6dF_kPhNOZgp8frcGGemCOu4ZTKAEjJuApBKEkQo)
+Hi, My name is Sakari Wahlsten. I am a 22-year old student from Turku University of Applied Sciences. I am studying Business IT and I am specializing on information security and networking. I have previous working experience in the field of sales and customer service. What I am waiting from the Capstone project is new experiences and learning. 
 
 
 ## Klaus Jokinen
