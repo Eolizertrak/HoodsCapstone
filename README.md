@@ -34,6 +34,17 @@ My stregths are mostly in programming with Java and creating webapps. I am a ver
 
 Previous work experience i have mostly on customer service and sales, but now I have worked almost 1 year as software developer. I have practical experience in programming through my own projects and school work.
 
+## Outcome of PO Meeting
+The meeting with the product owners of Know Your Hoods was held on 8/11/2019 with member participants attending in person or through Skype. The meeting began with all participants introducing themselves. The main agenda for the meeting was to get an introduction of the product and owners and a general idea of our next tasks in development. The main features that the PO was interested in developing for the hoods.fi website was an authentication feature for user logins and importantly, a way to activate the users into the platform and get them to engage with the application. 
+
+A summary of the product and company will be provided to the project members. This will also include material or notes for the pitch.
+
+We decided on a date for a brainstorming session with the PO to get into details about the technical-side of development. We also decided on the most appropriate times for meetings with the owners.
+
+Communication between the project members and PO will be through Slack and Google Drive.
+
+
+
 ##
 
 ![Sakari Wahlsten](https://media.licdn.com/dms/image/C5603AQFNkaeqLNNpZg/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=OVe6dF_kPhNOZgp8frcGGemCOu4ZTKAEjJuApBKEkQo "Sakari Wahlsten") ![Klaus Jokinen](https://media.licdn.com/dms/image/C5603AQGeX12aI5VctQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=UHtfVDNb0Z3p0gdgEm2agXhwwWRZ57AMaGPEmSzKWbQ "Klaus Jokinen") ![Vesa-Matti Mäntysaari](https://media.licdn.com/dms/image/C5103AQFFhCMbbI-AXA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=-oTpzNCxLJWg5QG4J38wmHFe6NtkpHyJ_Wma2k8K6jw "Vesa-Matti Mäntysaari") ![Martin Lehtomaa](https://media.licdn.com/dms/image/C5603AQG_riPV4BBbIA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=-32_-rnIbMNEtuB8sG0QFSgfZaKelHCBwrigHIMwHvI "Martin Lehtomaa")
