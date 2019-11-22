@@ -63,8 +63,6 @@ Interesting concepts relating to discovering neighbourhoods:
 Admares Oy's research was interesting to read. It was presented and summarized well with all the links to the articles provided in the blog. There were some interesting topics about smart water sensors, cybersecurity adoption by ship owners and improvements that can be made to ship ballasting systems.
 
 ## Stakeholder-map
-![alt text](https://tuas365-my.sharepoint.com/:b:/r/personal/sakari_wahlsten_edu_turkuamk_fi/Documents/Hoods%20Capstone/Stakeholders%20map.pdf?csf=1&e=rVKzSy)
-
-
+![alt text](https://github.com/KlausAMK/HoodsCapstone/blob/master/Stakeholders%20map.pdf)
 
 
