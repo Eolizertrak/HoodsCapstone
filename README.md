@@ -65,4 +65,4 @@ Admares Oy's research was interesting to read. It was presented and summarized w
 ## Stakeholder-map
 ![alt text](https://github.com/KlausAMK/HoodsCapstone/blob/master/Stakeholders%20map.pdf)
 
-
+![alt text](https://github.com/KlausAMK/HoodsCapstone/blob/master/stakeholder-map.png?raw=true)
