@@ -43,6 +43,11 @@ We decided on a date for a brainstorming session with the PO to get into details
 
 Communication between the project members and PO will be through Slack and Google Drive.
 
+## Research Summary
+Interesting concepts relating to discovering neighbourhoods:
+*discover.com had an article of a guide about researching neighbourhoods before moving to one. The guide pointed out that research should be done about pricing, taxes and services. The site provides well-tailored search options that match those exact features.
+*Trulia is focused on providing their customers with relevant information about neighborhoods and opinions of the residents. Trulia isn’t the only one, there is also Nextdoor which is more like a social network where people from the neighborhood can share events and ideas. That is something that could be implemented in the Know Your Hoods project when the authentication has been created. Based on what we found it seems that neighborhood search is more popular in United States than in other countries. Sites like Neighborhoodscout, Neighborhoods and Areavibes show the searcher things like Demographics, incomes, services and crime rates of the neighborhoods. Those sites try to recommend you a neighborhood based on your search criteria. That is exactly what Know Your Hoods is currently doing in Finland.
+*Utu.fi has an article about Know Your Hoods and it talks about the origins of the company, Choose Your Future and their products. It talks about the usefulnesss of using open data sets to provide services to the public.
 
 
 ##
