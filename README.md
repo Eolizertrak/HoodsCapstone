@@ -62,5 +62,10 @@ Interesting concepts relating to discovering neighbourhoods:
 ## Peer Review
 Admares Oy's research was interesting to read. It was presented and summarized well with all the links to the articles provided in the blog. There were some interesting topics about smart water sensors, cybersecurity adoption by ship owners and improvements that can be made to ship ballasting systems.
 
+## Peer Review - Task 8
+We chose Admares. Their tree was very lush and green with well thought out challenges and opportunities.
+## Peer Review - Task 9
+We chose Admares. Their mindmap was very clear with nice use of simple color.
+
 ## Stakeholder-map
 ![alt text](https://github.com/KlausAMK/HoodsCapstone/blob/master/stakeholder-map.png)
