@@ -34,6 +34,10 @@ My stregths are mostly in programming with Java and creating webapps. I am a ver
 
 Previous work experience i have mostly on customer service and sales, but now I have worked almost 1 year as software developer. I have practical experience in programming through my own projects and school work.
 
+##
+
+![Sakari Wahlsten](https://media.licdn.com/dms/image/C5603AQFNkaeqLNNpZg/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=OVe6dF_kPhNOZgp8frcGGemCOu4ZTKAEjJuApBKEkQo "Sakari Wahlsten") ![Klaus Jokinen](https://media.licdn.com/dms/image/C5603AQGeX12aI5VctQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=UHtfVDNb0Z3p0gdgEm2agXhwwWRZ57AMaGPEmSzKWbQ "Klaus Jokinen") ![Vesa-Matti Mäntysaari](https://media.licdn.com/dms/image/C5103AQFFhCMbbI-AXA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=-oTpzNCxLJWg5QG4J38wmHFe6NtkpHyJ_Wma2k8K6jw "Vesa-Matti Mäntysaari") ![Martin Lehtomaa](https://media.licdn.com/dms/image/C5603AQG_riPV4BBbIA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=-32_-rnIbMNEtuB8sG0QFSgfZaKelHCBwrigHIMwHvI "Martin Lehtomaa")
+
 ## Outcome of PO Meeting
 The meeting with the product owners of Know Your Hoods was held on 8/11/2019 with member participants attending in person or through Skype. The meeting began with all participants introducing themselves. The main agenda for the meeting was to get an introduction of the product and owners and a general idea of our next tasks in development. The main features that the PO was interested in developing for the hoods.fi website was an authentication feature for user logins and importantly, a way to activate the users into the platform and get them to engage with the application. 
 
@@ -50,11 +54,6 @@ Interesting concepts relating to discovering neighbourhoods:
 - Trulia is focused on providing their customers with relevant information about neighborhoods and opinions of the residents. Trulia isn’t the only one, there is also Nextdoor which is more like a social network where people from the neighborhood can share events and ideas. That is something that could be implemented in the Know Your Hoods project when the authentication has been created. Based on what we found it seems that neighborhood search is more popular in United States than in other countries. Sites like Neighborhoodscout, Neighborhoods and Areavibes show the searcher things like Demographics, incomes, services and crime rates of the neighborhoods. Those sites try to recommend you a neighborhood based on your search criteria. That is exactly what Know Your Hoods is currently doing in Finland.
 
 - Utu.fi has an article about Know Your Hoods and it talks about the origins of the company, Choose Your Future and their products. It talks about the usefulnesss of using open data sets to provide services to the public.
-
-
-##
-
-![Sakari Wahlsten](https://media.licdn.com/dms/image/C5603AQFNkaeqLNNpZg/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=OVe6dF_kPhNOZgp8frcGGemCOu4ZTKAEjJuApBKEkQo "Sakari Wahlsten") ![Klaus Jokinen](https://media.licdn.com/dms/image/C5603AQGeX12aI5VctQ/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=UHtfVDNb0Z3p0gdgEm2agXhwwWRZ57AMaGPEmSzKWbQ "Klaus Jokinen") ![Vesa-Matti Mäntysaari](https://media.licdn.com/dms/image/C5103AQFFhCMbbI-AXA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=-oTpzNCxLJWg5QG4J38wmHFe6NtkpHyJ_Wma2k8K6jw "Vesa-Matti Mäntysaari") ![Martin Lehtomaa](https://media.licdn.com/dms/image/C5603AQG_riPV4BBbIA/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=-32_-rnIbMNEtuB8sG0QFSgfZaKelHCBwrigHIMwHvI "Martin Lehtomaa")
 
 ## Mindmap
 ![alt text](https://raw.githubusercontent.com/KlausAMK/HoodsCapstone/master/Hoods%20Mind%20Tree.png)
