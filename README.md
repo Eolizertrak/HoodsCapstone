@@ -68,3 +68,6 @@ We chose Admares. Their mindmap was very clear with nice use of simple color.
 
 ## Stakeholder-map
 ![alt text](https://github.com/KlausAMK/HoodsCapstone/blob/master/stakeholder-map.png)
+
+## Lean Canvas
+![alt Lean Canvas](https://imgur.com/V6DzElK)
