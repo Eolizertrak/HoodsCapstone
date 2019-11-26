@@ -70,4 +70,5 @@ We chose Admares. Their mindmap was very clear with nice use of simple color.
 ![alt text](https://github.com/KlausAMK/HoodsCapstone/blob/master/stakeholder-map.png)
 
 ## Lean Canvas
+We are designing this project from the end-user’s viewpoint. Main goal is to create authentication and possibility for the users to comment and rate the neighbourhoods. Lean canvas here represents the idea of the whole project including the already existing webpage.
 ![alt Lean Canvas](https://raw.githubusercontent.com/KlausAMK/HoodsCapstone/master/HoodsLeanCanvas.PNG)
